@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New practical observations in surgery containing divers remarkable cases and cures. By Hugh Ryder surgeon in ordinary to His Majesty.</title>
+            <author>Ryder, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58009</idno>
+            <idno type="STC">Wing R2418</idno>
+            <idno type="STC">ESTC R221583</idno>
+            <idno type="EEBO-CITATION">99832880</idno>
+            <idno type="PROQUEST">99832880</idno>
+            <idno type="VID">37355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37355)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2152:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New practical observations in surgery containing divers remarkable cases and cures. By Hugh Ryder surgeon in ordinary to His Majesty.</title>
+                  <author>Ryder, Hugh.</author>
+               </titleStmt>
+               <extent>[14], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Partridge, stationer to his Royal Highness Prince George of Denmark at the Post-house between Charing-Cross, and Whtie-hall [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Royal College of Surgeons of England Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Surgery --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37355:1"/>
+            <pb facs="tcp:37355:1" rendition="simple:additions"/>
+            <p>NEW <hi>Practical Obſervations</hi> IN SURGERY, Containing divers remarkable CASES AND CURES.</p>
+            <p>By <hi>HUGH RYDER</hi> Surgeon in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Partridge,</hi> Stationer to his Royal Highneſs Prince <hi>George</hi> of <hi>Denmark</hi> at the <hi>Poſt-houſe</hi> between <hi>Charing-Croſs,</hi> and <hi>Whtie-hall,</hi> 1685.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:37355:2" rendition="simple:additions"/>
+            <pb facs="tcp:37355:2"/>
+            <opener>
+               <salute>Mr. <hi>Partridge,</hi>
+               </salute>
+            </opener>
+            <p>AT your requeſt I have per<g ref="char:EOLhyphen"/>uſed theſe Obſervations in Surgery, and Judge them very ingenious, elaborate and worthy of remark: Obſervations being the beſt Maps all Surgeons can Sail by to a ſafe and good Port. More<g ref="char:EOLhyphen"/>over by the contents of this Trea<g ref="char:EOLhyphen"/>tiſe, it appears that the Practice of Surgery in <hi>England</hi> is parallel to that of <hi>France, Italy,</hi> or other Na<g ref="char:EOLhyphen"/>tions.</p>
+            <closer>
+               <date>
+                  <hi>Dec.</hi> 1ſt. 1684.</date>
+               <signed>
+                  <hi>GIDEON HARVEY.</hi> M.D. <hi>Med. Ord. Regis.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:37355:3"/>
+            <pb facs="tcp:37355:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have read over part of your Practical Obſervations in Sur<g ref="char:EOLhyphen"/>gery (as my time would per<g ref="char:EOLhyphen"/>mit) and find you have taken great pains and care in your own Collections, made good Obſer<g ref="char:EOLhyphen"/>vations, and expreſt much Art; therefore I cannot but encourage you to make them publick, by which you will oblige many, who are friends to Surgery, amongſt whom give me leave to reckon,</p>
+            <closer>
+               <date>
+                  <hi>Decemb.</hi> 2. 1684.</date>
+               <signed>SIR, Your affectionate Friend to ſerve you <hi>James Molins,</hi> M.D. <hi>Regius Chirurgus Ordinarius.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:37355:4"/>
+            <pb facs="tcp:37355:4"/>
+            <head>
+               <hi>This</hi> 3. <hi>of</hi> Decemb. 1685.</head>
+            <p>WE have peruſed this ſmall Treatiſe Intituled <hi>Pra<g ref="char:EOLhyphen"/>ctical Obſervations in Surgery,</hi> in which we find nothing repugnant to the Doctrine of our beſt Au<g ref="char:EOLhyphen"/>thors; but do approve the ſame to be laudable Practice; and com<g ref="char:EOLhyphen"/>mend it as very uſeful,</p>
+            <closer>
+               <signed>Witneſs our Hands,
+<list>
+                     <item>
+                        <hi>George Horſnell</hi> Wardens.</item>
+                     <item>
+                        <hi>Robt. Sanderſon</hi> Wardens.</item>
+                     <item>
+                        <hi>Tho. Page</hi> Aſſiſtant of the Company of Surgeons.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37355:5"/>
+            <pb facs="tcp:37355:5"/>
+            <head>To the Right Worſhipful Sir <hi>John Godwin</hi> Kt, One of the Principal Officers and Commiſſioners of His Ma<g ref="char:EOLhyphen"/>jeſties Navy.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Make bold to preſent you with this little New-years Gift; the Subject is Sur<g ref="char:EOLhyphen"/>gery. You being one of the Commiſſioners of His Maje<g ref="char:EOLhyphen"/>ſties Navy, Surgery a part of Naval furniture, falls off right into your Province for Pro<g ref="char:EOLhyphen"/>tection;
+<pb facs="tcp:37355:6"/>the matter is plain but uſeful. I am not a ſtran<g ref="char:EOLhyphen"/>ger to the ill uſage good en<g ref="char:EOLhyphen"/>deavours commonly meet with; however I preſume the number of my Enemies will be leſs, when they ſhall per<g ref="char:EOLhyphen"/>ceive I have ſhelter under a ſhield ſo capable to defend me. If any little Zoile or Mome will be making Gri<g ref="char:EOLhyphen"/>maces, and carping, my re<g ref="char:EOLhyphen"/>gard of them ſhall be leſs than of thoſe ſmall Inſects, which let alone would ſpoil the beſt meat, if not corrected with
+<pb facs="tcp:37355:6"/>a Fly-flap. Sir, I have had the honour to be known to you many years in the diſ<g ref="char:EOLhyphen"/>charge of my employments by Sea and Land; where the multiplicity of Favours conferred on me, impoſes the obligation on him, who ſubſcribes eternally,</p>
+            <closer>
+               <signed>Your moſt humble Servant <hi>HUGH RYDER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37355:7"/>
+            <pb facs="tcp:37355:7"/>
+            <head>
+               <hi>Some Books Printed for</hi> James Par<g ref="char:EOLhyphen"/>tridge, <hi>and ſold at his Shop at the</hi> Poſt-houſe, <hi>between</hi> Cha<g ref="char:EOLhyphen"/>ring-croſs <hi>and</hi> Whitehall.</head>
+            <p>A New Diſcourſe on the Small-Pox and Malignant Feavers, with an exact diſ<g ref="char:EOLhyphen"/>covery of the Scorvey; together with Ob<g ref="char:EOLhyphen"/>ſervations and Diſcourſes on Convulſions, Palſies, Apoplexies, Rheumatiſms and Gouts, with their ſeveral Methods of Cure, and Re<g ref="char:EOLhyphen"/>medies by <hi>Gideon Harvey,</hi> M. D. Phyſician in Ordinary to his Majeſty, in 120.</p>
+            <p>The <hi>French Pox</hi> with all its Kinds, Cauſes, Signs and Prognoſticks; alſo the Running of the Reins, Shankers, Buboes, Gleets, and ther Cures, and what is the chief: An Ap<g ref="char:EOLhyphen"/>pendix of New Obſervations never yet diſ<g ref="char:EOLhyphen"/>covered by any, all compriſed in this Fifth Edition of <hi>Little Venus Unmask'd,</hi> by <hi>Gideon Harvey</hi> in 120.</p>
+            <p>The <hi>Unſatisfied Lovers,</hi> a New <hi>Engliſh</hi> No<g ref="char:EOLhyphen"/>vel in 120.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:37355:8"/>
+            <pb n="1" facs="tcp:37355:8"/>
+            <head>INTROD<g ref="char:V">Ʋ</g>CTION.</head>
+            <p>THE Head for its curio<g ref="char:EOLhyphen"/>ſity of frame, ſtru<g ref="char:EOLhyphen"/>cture, ſcituation and diverſity of Organs, may not unfitly be ſtiled the Ci<g ref="char:EOLhyphen"/>tadel or watch Tower of the Mi<g ref="char:EOLhyphen"/>crocoſm, whence the Centinels viſive and auditory give, and re<g ref="char:EOLhyphen"/>ceive information of amicable, or inimical objects, which being by the leaſt accident diſordered, de<g ref="char:EOLhyphen"/>duces trouble to the whole Bo<g ref="char:EOLhyphen"/>dy. How careful then ought the Chyrurgeon to be, into whoſe Hands ſhall happen Wounds, and Fractures of the ſame, ſometimes
+<pb n="2" facs="tcp:37355:9"/>attended with dreadful ſymptoms, as may appear in ſome of theſe following Cures, and Obſervati<g ref="char:EOLhyphen"/>ons, to which I refer.</p>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> A Wound of the Brain Cured.</head>
+               <p>IN an Engagement with the <hi>Hollanders,</hi> in which our Ship was boarded by four of their capital Men of War, we were re<g ref="char:EOLhyphen"/>duced to our cloſe Fight, our Forecaſtle and Steeridge doors be<g ref="char:EOLhyphen"/>ing made faſt, one of our Men was ſo unfortunate, as to be left out upon the Deck, who calling for quarter, one of the aſſailants, with a large Cutlace, ſtruck him
+<pb n="3" facs="tcp:37355:9"/>into the Head, from whence with two endeavours he could hardly pluck it forth; the wounded par<g ref="char:EOLhyphen"/>ty lay on the Deck as dead, but the Fight being over, and our Ship taken, he crawled down into the hold, where ſeveral with large lacerated Wounds, others with compound Fractures, and ſome requiring amputation, ſeemed fit<g ref="char:EOLhyphen"/>ter for ſpeedy attendance, lea<g ref="char:EOLhyphen"/>ving him to be the laſt dreſt, as ſuppoſing it only a ſimple Inciſi<g ref="char:EOLhyphen"/>on; but looking well upon the Wound, which was in length a<g ref="char:EOLhyphen"/>bout five inches, and full of a white matter, which ſpued out, I could not conceive digeſtion could be ſo ſoon procured, <hi>viz.</hi> in the ſpace of two hours; I therefore concluded it to be the
+<pb n="4" facs="tcp:37355:10"/>ſubſtance of the Brain, and ſo it proved; for with my <hi>Spatula</hi> I re<g ref="char:EOLhyphen"/>moved from the ſurface of the Wound about a ſpoonful of the <hi>Cerebrum,</hi> the hair being removed from the ſides of the Wound: it was dreſt with a Stegnotick Me<g ref="char:EOLhyphen"/>dicine, for it bled largely, ta<g ref="char:EOLhyphen"/>king care withal, to defend the edges of the <hi>Cranium</hi> with dry lint, for fear the acceſs of ſuch ear<g ref="char:EOLhyphen"/>thy Medicines that are Stegnotick, ſhould fowl them, which I would have all Surgeons take notice of in all parts, where Bones lye bare, and is occaſion to apply re<g ref="char:EOLhyphen"/>ſtringents, that they cover the boney parts with lint, as I ſaid before, the better to ſecure them from the injury of the reſtrin<g ref="char:EOLhyphen"/>gents, the not taking care of
+<pb n="5" facs="tcp:37355:10"/>which is the cauſe, that many times the Patient is longer delay<g ref="char:EOLhyphen"/>ed in his Cure than reaſonable, and to wait the Exfoliation of Bones, fowled by ſuch Terrene Medicines. He had ill ſymptoms, as <hi>delirium</hi> and dotage, which lat<g ref="char:EOLhyphen"/>ter hath not yet left him, if living; he loſt eight ounces of Blood next day out of the right Arm, and cupping Glaſſes were applied to his Neck, and Shoulders; a fo<g ref="char:EOLhyphen"/>mentation always made uſe of at dreſſings, and to the wound ap<g ref="char:EOLhyphen"/>plied <hi>Thereb. lot. Tinct. Traumatic. cum Syr. de Roſ. Siccis;</hi> ſo in ſix weeks time the Wound was cu<g ref="char:EOLhyphen"/>red, convenient bandage being fitly applied, and greatly condu<g ref="char:EOLhyphen"/>cing to the Cure. I ſaw this per<g ref="char:EOLhyphen"/>ſon ſeveral times, and ſeveral years
+<pb n="6" facs="tcp:37355:11"/>after in <hi>Southwarke,</hi> and obſerved in him a very great depravation, and but little right uſe of his ſences. I have the more freely ſet down this Cure, to encourage other Sur<g ref="char:EOLhyphen"/>geons, that they ſhould not de<g ref="char:EOLhyphen"/>ſpair of dreſſing any Man, though never ſo dangerouſly wounded, but uſe his beſt endeavour and means, leaving the ſucceſs to God, who often gives a miracu<g ref="char:EOLhyphen"/>lous bleſſing, even when our greateſt reaſons fail us. If any one doubteth the poſſibilty of a Cure of this nature, let him con<g ref="char:EOLhyphen"/>ſult the Learned Sir <hi>Charles Scar<g ref="char:EOLhyphen"/>borow,</hi> who can inform him of a Captain in the King's Army, that received a wound on the <hi>occiput,</hi> carrying a large part away, and <hi>cerebellum</hi> with it, and yet was be<g ref="char:EOLhyphen"/>yond
+<pb n="7" facs="tcp:37355:11"/>expectation recovered.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> A ſmall wound of the Head by a blow with its ſymptoms.</head>
+               <p>A Gentleman of the Guard, in the Night, received a terri<g ref="char:EOLhyphen"/>ble blow on the Head, depri<g ref="char:EOLhyphen"/>ving him of his Speech and Sences at the ſame minute; the next day coming to him, I found a very ſmall wound on the left <hi>Bregma,</hi> he had bled but little at the wound; wherefore I took away nine ounces of Blood out of the left Arm, and applied cupping Glaſſes to the <hi>Scapula</hi> and <hi>Spine</hi> on each ſide. I ſhould have told
+<pb n="8" facs="tcp:37355:12"/>you, he had alſo loſt the uſe of his right Arm, by the ſame <hi>Pa<g ref="char:EOLhyphen"/>ralyſis</hi> of his Head and Tongue: the ſecond day I dilated the wound a fingers length, the fifth day I made a large triangular inci<g ref="char:EOLhyphen"/>ſion, leaving the Skull bare for the applying a Trefine, which I did on the ſeventh day, although no<g ref="char:EOLhyphen"/>thing appeared on the Skull of fracture, or <hi>ſedes;</hi> before the ſe<g ref="char:EOLhyphen"/>venth day he fell into dangerous Convulſions, and frequent <hi>Lypothy<g ref="char:EOLhyphen"/>mies,</hi> for remedy whereof were adminiſtred <hi>Cardiac,</hi> and <hi>Antiepilep<g ref="char:EOLhyphen"/>tick</hi> Juleps, <hi>&amp;c.</hi> too long to be here inſerted, as alſo a <hi>Cephalick</hi> Plaiſter to the Head, after the application of the Trefine: through the perforated part of the Skull, came forth a large quantity of
+<pb n="9" facs="tcp:37355:12"/>black grumous Blood, which by preſſing upon the Meninges and Brain, and ſending forth putrid ſteams, had been the occaſion of theſe ill ſymptoms, which ſaid grumous clots came forth for ſe<g ref="char:EOLhyphen"/>veral days together at dreſſing, and the Meninge black and diſ<g ref="char:EOLhyphen"/>coloured, to which I applied <hi>Therebin. lot. cum Tinct. Trauma. &amp; melle Roſ.</hi> and always a hot Fire<g ref="char:EOLhyphen"/>ſhovel held over the Head, to cor<g ref="char:EOLhyphen"/>rect the coldneſs of the Air, and hot <hi>Stupes</hi> to the Head, dry lint to the <hi>Cranium,</hi> and to the edges of the wound a digeſtive of <hi>The<g ref="char:EOLhyphen"/>reb. vitell. ou. &amp; mel. Roſ. cum ol. Roſar.</hi> every day, or other day, was a Glyſter adminiſtred: So with theſe dreſſings he every day grew better, and in a ſhort time
+<pb n="10" facs="tcp:37355:13"/>recovered the uſe of his Tongue and Arm, which before had been loſt by his Palſie, and Convulſions mentioned.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> A wound of the Head, with the Frac<g ref="char:EOLhyphen"/>ture of the Collar-bone, diſlocati<g ref="char:EOLhyphen"/>on of the Shoulder, compound Frac<g ref="char:EOLhyphen"/>ture of the Leg, and general con<g ref="char:EOLhyphen"/>tuſion of the Body.</head>
+               <p>IN the Year 78. when I was Surgeon to the Honourable Sir <hi>Tho. Allen,</hi> then Admiral in the Royal <hi>James,</hi> one of our Men fell down from the Foreyard upon a piece of Ordnance on the Fore<g ref="char:EOLhyphen"/>caſtle, a large piece of the Scalp
+<pb n="11" facs="tcp:37355:13"/>from the hinder part of the Head being cut clearly off by the breech of the Gun; with a Frac<g ref="char:EOLhyphen"/>ture of the left Clavicle, Diſlo<g ref="char:EOLhyphen"/>cation of the Shoulder, and a com<g ref="char:EOLhyphen"/>pound Fracture of the Leg on the ſame ſide, ſuch as we call Fracture <hi>aſcialis,</hi> the bones of the Leg coming through his ſtockins. I firſt dreſt the wound of his Head, leaſt the Skull being bare the Air might prejudice it, then reduced the Diſlocation of the Shoulder, next the Clavicle, and after<g ref="char:EOLhyphen"/>wards the Leg and placed it on a pillow in a box, or caſe with hinges, to turn down, to come at and dreſs the wounded places, which I had at convenient interſtices left open for that pur<g ref="char:EOLhyphen"/>poſe; I bled him largely, and kept
+<pb n="12" facs="tcp:37355:14"/>him to a ſpare dyet, giving him inwardly ſome <hi>Iriſh</hi>-ſlate in <hi>Spruce</hi>-beer, and <hi>Sperma-ceti</hi> in <hi>Balſam. Lutatelli</hi> (not of the commonpre<g ref="char:EOLhyphen"/>paration) the wound of the Head from the edges incarned, and grew up in a ſhort time, without any exfoliation of the Skull, by care<g ref="char:EOLhyphen"/>fully preſerving it from the Air, whereas perhaps ſome might with their Deſquamatory powders, needleſly applied, made foul, and caſt off ſome part of the Occiput. The chiefeſt concern and greateſt trouble was the Leg; both fociles being by the heigth and vehe<g ref="char:EOLhyphen"/>mence of the fall ſhatter'd, and daſht in pieces, and ac<g ref="char:EOLhyphen"/>commodated with ſhort rowlers for convenience of looſing to dreſs it, and afterwards bound up
+<pb n="13" facs="tcp:37355:14"/>the fractured parts wounded; for there is no room for long row<g ref="char:EOLhyphen"/>lers: in ſeven weeks he was ſo well as to go abroad with Crutch<g ref="char:EOLhyphen"/>es, as the Admiral himſelf can teſtifie.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> A wound on the Head, &amp;c. in a Venereal Perſon.</head>
+               <p>A Perſon (whoſe name I wil<g ref="char:EOLhyphen"/>lingly conceal) in a ren<g ref="char:EOLhyphen"/>counter received a large wound on the Head, two on the Arm, and one on the Breaſt, who applied himſelf to me for Cure; he had at the ſame time an Ulcer on his right Leg, a little above the <hi>Mal<g ref="char:EOLhyphen"/>leolus
+<pb n="14" facs="tcp:37355:15"/>externus</hi> of an ill Figure, to which Ulcer and Wounds, al<g ref="char:EOLhyphen"/>though I made uſe of the moſt fit (to my apprehenſion) and methodical Remedies, yet for ma<g ref="char:EOLhyphen"/>ny days I could procure no better from neither, than an ugly Ichor or Sanies, or ſometimes a green<g ref="char:EOLhyphen"/>iſh ſordid matter; conſidering with my ſelf, that this could not be barely and ſolely the product of the parts affected, I asked him, if he had lately, or ſometimes before received a misfortune by ſome one of the Virtuoſa's of this Town? He told me, He had, and that he had been in an ill caſe, but had been under a Surgeons Hands of good note, and that he believed himſelf to have been well. I told him, it ſeemed to me
+<pb n="15" facs="tcp:37355:15"/>that his Scavenger had not taken away all his ſoil, but had left an Egg ſtill in the neſt, and that he could not be perfectly cured bare<g ref="char:EOLhyphen"/>ly by Surgery, without referring to ſome internal Medicines, which might have regard to his former miſhap, whereunto he conſented; ſo putting him upon a courſe of antivenereal Pills, and diet Drink, in three days time there was lau<g ref="char:EOLhyphen"/>dable digeſtion, and in a ſhort time his Ulcer and Wounds were perfectly healed, yet after they were well, I kept him to this courſe for three weeks longer, be<g ref="char:EOLhyphen"/>lieving it more ſafe in ſuch caſes, rather to over than underdo. I was the more willing to expreſs this caſe, becauſe ſometimes an ingenious Surgeon may lye under
+<pb n="16" facs="tcp:37355:16"/>an Error, to the great detriment, and utter ruine perhaps of his Pa<g ref="char:EOLhyphen"/>tient, if he direct his Eye no far<g ref="char:EOLhyphen"/>ther, than only to the ſuperficies of the part affected.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Mania.</hi>
+               </head>
+               <p>BEING Surgeon of the Na<g ref="char:EOLhyphen"/>val Hoſpital, when His Ma<g ref="char:EOLhyphen"/>jeſties Fleet was at <hi>Shotland,</hi> there was put on board us, by adviſe of the Surgeon General, from one of the Frigots, in order to his Cure (if poſſible) a diſtracted Perſon, moſt violent<g ref="char:EOLhyphen"/>ly raving, and the maddeſt I ever yet beheld, breaking what
+<pb n="17" facs="tcp:37355:16"/>ever cords he was tyed with. I that Afternoon had him by force of Men held down, and gave him a Glyſter, which wrought well; the next Morning I bled him in the Arm, kept him to a cooling ſpared yet, bled him next day in the forehead, and impoſed cupping Glaſſes with Scarifications to the Neck and Shoulders; but all to no purpoſe, for he remained as mad ſtill as before; wherefore I appli<g ref="char:EOLhyphen"/>ed a Cauſtick on the Crown of his Head, and made a large Eſ<g ref="char:EOLhyphen"/>char, that being done, and for three days time there being no amendment, I was not willing to tarry for the caſting off the Eſchar by digeſtion, which would have protracted time, but with my in<g ref="char:EOLhyphen"/>ciſion Knife I cut out the whole
+<pb n="18" facs="tcp:37355:17"/>Eſchar round to the Cranium, lea<g ref="char:EOLhyphen"/>ving it bare, and about midnight it was told me, the Madman had re<g ref="char:EOLhyphen"/>covered his ſenſes, and deſired to ſpeak with me; when I came to him, I ſo found it; for he gave me thanks, and expreſt himſelf very joyfully, ſaying, he was perfect<g ref="char:EOLhyphen"/>ly well, and ſo remained from that time forward. I was unwil<g ref="char:EOLhyphen"/>ling to ſend him aboard again over-ſoon, but let the edges fill up, and kept it as a Fontinel with a large Pea in it for a month, afterwards took out the Pea and healed it, and ſent him to his own Ship again; who near a twelve-month after found me out in <hi>London,</hi> and returned me a thouſand thanks for my great care of him.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="19" facs="tcp:37355:17"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Wounds of the Head with ill ſymptoms.</head>
+               <p>A Young Carpenter being at work upon <hi>Bow</hi>-Church, be<g ref="char:EOLhyphen"/>fore the ſtructure of the Steeple, fell from the top thereof, and was taken up dead; but after a ſmall time perceiving life in him, I bled him, ſo he was carried home, and remained ſpeechleſs for ſeven days, having alſo by the ſame ac<g ref="char:EOLhyphen"/>cident loſt the uſe of his right Arm: I applied cupping Glaſſes to his Neck, <hi>Scapulaes</hi> and <hi>Spine,</hi> he had three or four wounds on his Head (for he fell amongſt ragged Stones) which to ſight ſeemed in<g ref="char:EOLhyphen"/>conſiderable, he took every other day a Glyſter, and a very ſpa<g ref="char:EOLhyphen"/>ring
+<pb n="20" facs="tcp:37355:18"/>dyet (as in ſuch caſes requi<g ref="char:EOLhyphen"/>ſite) I dreſt his wounds with a <hi>Cephalick Balſam;</hi> he took often of an <hi>Antiepileptick Julep.</hi> But obſer<g ref="char:EOLhyphen"/>ving he often laid his left Hand on his right Temple, for there was alſo a ſmall wound, I dilated the ſame largely toward the Eye<g ref="char:EOLhyphen"/>brow, obſerving the rectitude of <hi>Fibres</hi> (which always is to be. heeded, where inciſions are to be made, unleſs an extraordinary oc<g ref="char:EOLhyphen"/>caſion hinder) from thence I took ſeveral ſmall pieces of the <hi>Cra<g ref="char:EOLhyphen"/>nium,</hi> which were divided from the whole, and ſome of them pricking againſt the edge of the temporal Muſcle, upon the ta<g ref="char:EOLhyphen"/>king out of which, he recovered both the uſe of his Speech and Arm. I ſhould have told you
+<pb n="21" facs="tcp:37355:18"/>likewiſe, that he ſometimes was troubled with a <hi>Spaſmus Cynicus</hi> on the right ſide, by reaſon I ſuppoſe of thoſe pungent <hi>Oſſi<g ref="char:EOLhyphen"/>cles;</hi> the dilated wound I dreſt with a Digeſtive at firſt, cramming in dorſils of dry lint on the bare Skull, afterwards with a Trau<g ref="char:EOLhyphen"/>matick tincture, and <hi>Syr. de Roſ. ſiccis;</hi> ſo in five weeks or there<g ref="char:EOLhyphen"/>about, he perfectly recovered.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="22" facs="tcp:37355:19"/>
+               <head>
+                  <hi>CHAP. VII.</hi> A wound in the Liver.</head>
+               <p>A Perſon raging with Wine, as well as with love of his dear Miſtreſs, of whoſe enjoyment he deſpaired, leaving his company, went forth of the room, and with a Knife ſtabb'd himſelf in the upper part of the right <hi>Hy<g ref="char:EOLhyphen"/>pochondrium,</hi> wounding alſo the Liver, from whence flowed a large and violent ſtream of Blood; to divert which I took a good quan<g ref="char:EOLhyphen"/>tity of Blood from the left Arm; I gave alſo ſome <hi>aq. Styptica Vitrioli in aq. Plantaginis;</hi> I kept him to refrigerating Juleps, wherein was a competent quantity of <hi>Sal. pru<g ref="char:EOLhyphen"/>nellae,</hi>
+                  <pb n="23" facs="tcp:37355:19"/>alſo to laxative Glyſters; and although he complained much of a very great pain in his right <hi>Hypogaſtrium,</hi> which I feared might ariſe from extravaſated Blood, fal<g ref="char:EOLhyphen"/>ling from the wound, and there ſubſiding, yet by the uſe of fo<g ref="char:EOLhyphen"/>mentations and Glyſters, he be<g ref="char:EOLhyphen"/>came well, and was in fourteen days recovered.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="24" facs="tcp:37355:20"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> A wound in the Belly.</head>
+               <p>A Soldier, being returned from <hi>Flanders,</hi> upon ſome diſguſt he had received from his Mother, with a large Flemiſh knife ſtabb'd himſelf about two inches above, and on one ſide of the Navel, through the right Muſcle and <hi>Peritonaeum</hi> into the <hi>Abdomen;</hi> from out the wound hung forth a large piece of the <hi>Omentum,</hi> which had ſo done for four hours, for ſo long after it was that I ſaw him: it be<g ref="char:EOLhyphen"/>ing Winter time, the Air having ſeiz'd it, and being diſcoloured, I made ligature upon it, and cut
+<pb n="25" facs="tcp:37355:20"/>off the diſcolour'd part near the the tying, and having fomented it with warm Brandy, I put in the <hi>Omentum</hi> again, leaving the thread hanging forth to the wound; I uſed a Digeſtive for three or four days, afterwards a Balſam, whoſe baſis was Turpentine; ſo without any ſupervening ſymptom he be<g ref="char:EOLhyphen"/>came well in leſs than a fort<g ref="char:EOLhyphen"/>night.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="26" facs="tcp:37355:21"/>
+               <head>
+                  <hi>CHAP. IX.</hi> Two penetrating Fiſtulaes <hi>in ano, &amp;c.</hi> cured.</head>
+               <p>AN Apothecary of this Town had for many months try<g ref="char:EOLhyphen"/>ed practice upon a Gentleman for the cure of a Fiſtula, not at all knowing what he was about, having uſed, as the Patient after<g ref="char:EOLhyphen"/>wards informed me, at leaſt forty different ſorts of Medicines, as Waters, Oyntments, <hi>&amp;c.</hi> a ſuf<g ref="char:EOLhyphen"/>ficient argument of his unſteady ignorance. Once or twice, by Mercurial means (againſt his will as he profeſt) raiſed a Salivation on him, had ſometimes with
+<pb n="27" facs="tcp:37355:21"/>his Knife made inciſions, and ſuf<g ref="char:EOLhyphen"/>ficiently teaz'd him, at length told him, he had done with him, for he was cured and well; but the Gentleman being alarm'd by ſome pain he felt there, was ad<g ref="char:EOLhyphen"/>viſed by a friend of his to ſhew it to me; upon ſight whereof I put my Probe into the Orifice, being about two Inches from the <hi>Anus,</hi> and paſt it in length five Inches, <hi>viz.</hi> two from the Orifice to the <hi>Anus,</hi> and three Inches from the edge of the <hi>Sphincter</hi> up into the <hi>Sinus,</hi> it had made in the <hi>inteſtinum rectum;</hi> ſo having ſatisfied the Gentleman of the ill condition he was in, and be<g ref="char:EOLhyphen"/>ſtowed on this Amphibious Apo<g ref="char:EOLhyphen"/>thecary his malediction, he be<g ref="char:EOLhyphen"/>came my Patient from that time,
+<pb n="28" facs="tcp:37355:22"/>till he recovered. But by the way, it is a common thing for Apothecaries to practiſe Surgery, but with what ſucceſs, let them and their Patients boaſt, as in the caſe above, and theſe two follow<g ref="char:EOLhyphen"/>ing may appear. A Neighbour of mine in the <hi>Old-Baily,</hi> conſul<g ref="char:EOLhyphen"/>ting with a learned Apothecary, he adviſed her to an Iſſue, which he would make, and accordingly did; and having made it upon the <hi>Gaſterocnemius,</hi> it cauſed ſuch a <hi>Pha<g ref="char:EOLhyphen"/>gedaenic</hi> Ulcer, as eat away above half the calf of her Leg, whom I afterwards cured, not without much trouble. The ill Medicines he had applied, having left a ſtain upon the part, not ſuddainly to be waſht off, according to that of the Poet,
+<pb n="29" facs="tcp:37355:22"/>
+                  <q>
+                     <l>Quo ſemel est imbuta recens ſervabit odorem,</l>
+                     <l>Teſta diu —</l>
+                  </q>
+               </p>
+               <p>The other caſe is, a Phleboto<g ref="char:EOLhyphen"/>miſt Apothecary much exerciſed in bleeding, (not for want of ig<g ref="char:EOLhyphen"/>norance in them who permit him, any more than in himſelf) let Blood one of his Neighbours Daughters, and in the carreer of his Lancet, made a large wound in the Tendon of the Biceps; be<g ref="char:EOLhyphen"/>ing call'd to take care of it, I ſaw the Arm very much tumefyed, full of pain, and a large quanti<g ref="char:EOLhyphen"/>ty of Gleet from the wounded Tendon; the tumor of the Arm I appeaſed, with <hi>Anodyne Cata<g ref="char:EOLhyphen"/>plaſmes,</hi> and dreſt the Tendon with
+<pb n="30" facs="tcp:37355:23"/>a There bin thinate Medicine, which after ſome time became well. I could add many more of theſe, and other like caſes, wherein Apothecaries, by enterfering in our Profeſſion, have gotten to themſelves no great reputation; for if a young Apothecary (for the old ones have more pru<g ref="char:EOLhyphen"/>dence) get acquainted with ſome Surgeons Apprentice, who is but an Embrio in his Profeſſion, he ſhall from him be furniſhed with ſuch pretty knacks in that Pra<g ref="char:EOLhyphen"/>ctice, that he need not doubt to proclaim himſelf a <hi>Chiron,</hi> as in Phyſick he doth an <hi>Aeſculapius;</hi> but I hope theſe brief Memoires will dehort them from it in the future. But to return to my Pa<g ref="char:EOLhyphen"/>tient, whoſe Poſtern calls out for
+<pb n="31" facs="tcp:37355:23"/>help; for upon a ſecond inſpecti<g ref="char:EOLhyphen"/>on, I found two <hi>Sinus's</hi> from with<g ref="char:EOLhyphen"/>in the outward Orifice, which ran one to the right, the other to the left hand; theſe having laid open, I yet found another ſmall outlet, within an inch of the <hi>anus,</hi> that in three or four days, be<g ref="char:EOLhyphen"/>ing made wider, by the uſe of Sponge tents, I incided: in the mean time I confined him to a diet of <hi>Sarſa</hi> and <hi>China,</hi> with ſome vul<g ref="char:EOLhyphen"/>nerary Herbs, ſometimes gently purging him with an Infuſion of <hi>Senna</hi> and <hi>Salt of Tartar,</hi> with <hi>Syr. Roſ. Soiut.</hi> or <hi>Manna,</hi> and twice a Week fifteen or twenty grains of <hi>Calomel.</hi> with <hi>res Gialap.</hi> or as much of another Mercurial pre<g ref="char:EOLhyphen"/>paration of my own, excellent in Ulcers or Fiſtulaes, by which
+<pb n="32" facs="tcp:37355:24"/>means this almoſt incredible quantity of Gleet was exhauſt<g ref="char:EOLhyphen"/>ed and dried up: it being moſt true, that <hi>Siccum est ſano proximum.</hi> the dreſſings for the Fiſtulous parts inciſed, was a Balſam of Sulphur, joined ſometimes with a Traumatick tincture: what in<g ref="char:EOLhyphen"/>ciſions ſoever I made, I always let them bleed freely, to diſ<g ref="char:EOLhyphen"/>charge the great hardneſs round the <hi>Anus;</hi> to diſcuſs which, did not a little help a fomentation applied Night and Morning be<g ref="char:EOLhyphen"/>fore dreſſing. The Inciſions <hi>intra anum</hi> I made with my <hi>Cannula</hi> Sciſ<g ref="char:EOLhyphen"/>ſor upon the Scoop. Thus in the ſpace of ten Weeks he became abſolutely well, and ſo remaineth.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="33" facs="tcp:37355:24"/>
+               <head>
+                  <hi>CHAP. X.</hi> A Fistula in Ano.</head>
+               <p>ANother being a very fat Man, having ridden ſome hun<g ref="char:EOLhyphen"/>dreds of miles, from a tumor of an external Hemorroid Apoſte<g ref="char:EOLhyphen"/>mating, incurr'd into a Fiſtula, which ſearching with my Probe I felt it come through its upper Orifice into the <hi>inteſtinum rectum,</hi> about two inches above the <hi>Anus.</hi> Having an ill habit of Body I durſt not preſently attempt the Chirurgical part of his cure, till I had given him a preparatory Apozeme, and with an Hydrotick Medicine purged four or five times, the better to empty and carry off that load of humors, I
+<pb n="34" facs="tcp:37355:25"/>might otherwiſe expect to fall up<g ref="char:EOLhyphen"/>on the part; then with my leaden Probe Idrew a waxen ſilk through, daily tying it ſtraighter, till at length it cut its way through; which being done, and the part ſo inciſed, by uſe of a drying Bal<g ref="char:EOLhyphen"/>ſam, in a ſhort time was perfect<g ref="char:EOLhyphen"/>ly cured; a drying dyet-drink, which he at that time took, help<g ref="char:EOLhyphen"/>ing very much to effect it.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="35" facs="tcp:37355:25"/>
+               <head>
+                  <hi>CHAP. XI.</hi> An Abſceſs on the <hi>Os Sacrum.</hi>
+               </head>
+               <p>ANother Gentleman having lain ill of a Fever for a long time, the Diſeaſe at length terminated into an Abſceſs near the lower part of the <hi>Os Sacrum;</hi> be<g ref="char:EOLhyphen"/>ing ſent for, which was two or three months after the breaking thereof, I perceived a ſmall Ori<g ref="char:EOLhyphen"/>fice, out of which iſſued a thin matter dayly in a large quantity, and extreamly fetid; after three or four days time I paſt my Probe in at the Orifice (which at firſt I could not by reaſon of its ſmal<g ref="char:EOLhyphen"/>neſs) down toward the <hi>Anus,</hi> a<g ref="char:EOLhyphen"/>bove four inches in depth, and after ſome time, with my large
+<pb n="36" facs="tcp:37355:26"/>Probe Sciſſors, I dilated as far as their length would permit, and ſo filling it with Dorſils of dry lint (for it bled not much) I ſo left it till next dreſſing, which was with a digeſtive, be<g ref="char:EOLhyphen"/>ing for ſome weeks time con<g ref="char:EOLhyphen"/>tinued. From the part affected a great quantity of matter daily flowed, with an exceſſive ſter<g ref="char:EOLhyphen"/>corary odour, which gave me occaſion for a while to fear, there might be ſome ſmall perfo<g ref="char:EOLhyphen"/>ration into the <hi>Inteſtinum rectum,</hi> which might be the reaſon of this ill ſmell: However by the uſe of Fomentations and Injections, in which were ſome Vulneraries in a Decoction of <hi>Aqua calcis,</hi> adding ſome Traumatick tincture and honey of Roſes, the ſtench daily
+<pb n="37" facs="tcp:37355:26"/>diminiſhed. I continued ſtill to dreſs twice a day; the Medicine with which I dreſt the part, was a Balſam of Sulphur with Trau<g ref="char:EOLhyphen"/>matick tincture, by the uſe of which Medicine and Injection, and uſing now and then a little lift with a Mercurial <hi>Bolus,</hi> the parts were corroborated, the mat<g ref="char:EOLhyphen"/>ter loſt its ill ſmell, became well digeſted, and in quantity daily decreaſed, till at length having ſhortned my Dreſſings, the Party became well. <hi>Note.</hi> He ſtill con<g ref="char:EOLhyphen"/>tinued his Diet-drink, which re<g ref="char:EOLhyphen"/>duced his Cachochymick Body to a better habit, I adviſed him to make uſe of little pieces of Sponge dipt in an Emplaſtick matter, which I prepared for him, for purpoſe to keep it open as a
+<pb n="38" facs="tcp:37355:27"/>Fontanel, which he did for ma<g ref="char:EOLhyphen"/>ny Months; but not long after his Cure, by ſome diſorder, he fell into a moſt violent Feaver, from whence he was recovered by a large torrent of humours, finding vent at the Orifice ſo kept open; which extreamly running, in about a Fortnights time made a total diſcharge of the Morbifick matter, and he became well, and about half a year after, unwilling for the troubles ſake to wear it open as a Fontanel, cloſed it up, and hath remained well for above a year.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="39" facs="tcp:37355:27"/>
+               <head>
+                  <hi>CHAP. XII.</hi> A penetrating Wound in the Thorax.</head>
+               <p>AVintner bringing in a Recko<g ref="char:EOLhyphen"/>ning, and giving ſome un<g ref="char:EOLhyphen"/>pleaſing Language to his Gueſts, one of them with his Rapier ran him into the right ſide, about an Inch below the <hi>Axilla</hi> or Arm-pit; he bled not much at the Wound; wherefore I took away about fourteen Ounces of Blood; two days after the Wound received, the Party wounding ſent three eminent Surgeons to take a view of him, believing him not ſo wounded as reported; I deſired one of them that he would pleaſe
+<pb n="40" facs="tcp:37355:28"/>to take the Candle in his hand, and hold it near the Wound, which he did: Whereupon I ad<g ref="char:EOLhyphen"/>viſed the Patient to ſhut his Mouth, and hold his Breath, and immediately the included Air be<g ref="char:EOLhyphen"/>ing forcibly expell'd, blew the Candle out. I made uſe of ſhort Tents dipt in <hi>Balſamum Lucatelli;</hi> kept him to a thin Diet, refrigera<g ref="char:EOLhyphen"/>ting Juleps and Glyſters every day, or at leaſt every other day; and if he ſlept not well, in his compoſing draught, I gave him ſometimes fifteen or more drops of Liquid <hi>Laudanum;</hi> ſo his Feaver going off, and finding no occaſion to keep it longer open, I took out my Tent, and in ten days he recovered, not leaving behind me that ill acci<g ref="char:EOLhyphen"/>dent, which I remember a Surgeon
+<pb n="41" facs="tcp:37355:28"/>once did, who by keeping open a penetrating Wound of the breaſt too long with Tents, procured a Calloſity round the edges of the Wound, leaving behind him a Fiſtula uncured.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="42" facs="tcp:37355:29"/>
+               <head>
+                  <hi>CHAP. XIII.</hi> A Wound in the Breaſt.</head>
+               <p>ACountry Gentleman being in <hi>London,</hi> and going in the dusk of the Evening home to his Lodging, was met by a Bully of the Town; who becauſe he im<g ref="char:EOLhyphen"/>mediately gave him not the Wall, drew upon him, and ran him through the Pectoral Muſcle into the Thorax; there was a conſi<g ref="char:EOLhyphen"/>derable flux of Blood at the Wound, as alſo out of the Mouth, as often as he ſpit or cough'd; from whence we may believe the Lungs to have received prejudice; I nevertheleſs took away ten or twelve Ounces of Blood, uſed to the Wound for four or five days
+<pb n="43" facs="tcp:37355:29"/>after the firſt dreſſing, Tents arm<g ref="char:EOLhyphen"/>ed with a digeſtive, keeping him to a Pectoral and Traumatick De<g ref="char:EOLhyphen"/>coction, and a very low Diet; but finding that little matter pro<g ref="char:EOLhyphen"/>ceeded from the Wound, and that his Cough (which at firſt was troublefome) went off, I left out my Tent, and only applied a Pledget on the part ſpread with <hi>Lucatellus's</hi> Balſam; ſo in three days more it was healed, and he went down to his Affairs into the Country.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="44" facs="tcp:37355:30"/>
+               <head>
+                  <hi>CHAP. XIV.</hi> A Mortification on the Arm.</head>
+               <p>AYoung Woman upon a diſ<g ref="char:EOLhyphen"/>order in Diet, fell into a moſt deſperate Feaver, ſhe having an Iſſue in her Arm, was over hard bound, the ſlackning and dreſſing of which, being for three or four days neglected, there hap<g ref="char:EOLhyphen"/>ned a large tumour of the Arm and Hand; when I came I found the Arm diſcoloured, and a large Mortification upon it, from the Shoulder to the Elbow quite round, part of the Mortification reaching to the Clavicle and Breaſt: with my head Razor I made many and deep Inciſions, which ſhe felt not, unleſs upon
+<pb n="45" facs="tcp:37355:30"/>the edges of the ſound parts, which I ſpared not to cut to cauſe the ſooner ſeparation. I dreſt her twice a day with Stupps wrung out of a ſtrong <hi>Lixivium,</hi> and ap<g ref="char:EOLhyphen"/>plied ſcalding hot. The applica<g ref="char:EOLhyphen"/>tion to the inciſed parts, was <hi>E<g ref="char:EOLhyphen"/>gyptiacum</hi> and Spirit of Wine, as hot as with Dorſils, and pledgets dipt, could be applied, and over all a Cataplaſme of Mithridate, or ſometimes Venice Treacle round the Arm. In the mean while there was no neglect of fit Alexipharmacaes, and cordial Ju<g ref="char:EOLhyphen"/>leps; ſo a ſtop being put to the progreſs of the Mortification, and the Feaver abated, I began to make uſe of Digeſtives, by which means, and by cutting off daily large quantities of the mortified
+<pb n="46" facs="tcp:37355:31"/>cadaverous and ſtinking ſloughs, the ſubjacent parts daily appear<g ref="char:EOLhyphen"/>ed more florid: after gently mundifying, for a long time I made uſe of the beſt Incarnatives, by which means there was a gra<g ref="char:EOLhyphen"/>dual reparation almoſt of that vaſt loſs of ſubſtance ſhe ſuſtain<g ref="char:EOLhyphen"/>ed. In the mean time I laid open by inciſion ſeveral Fiſtulous Si<g ref="char:EOLhyphen"/>nus's, the virulent and corro<g ref="char:EOLhyphen"/>ſive matter had made upon the Breaſt, Shoulder and <hi>Scapula,</hi> which I afterwards cured, and ſhe in the ſpace of ten weeks re<g ref="char:EOLhyphen"/>covered, and hath the uſe of her Arm almoſt as well as ever.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="47" facs="tcp:37355:31"/>
+               <head>
+                  <hi>CHAP. XV.</hi> A Leg Amputated.</head>
+               <p>A Neighbours Son about nine years of age, by reaſon of a wrench, had a painful tumour of the Ancle, and afterwards of the whole Foot, without alterati<g ref="char:EOLhyphen"/>on of colour. For remedy of which, uſe had been made for many Months of ſeveral Surge<g ref="char:EOLhyphen"/>ons one after another, and ſome pretending Bone-ſetters, in hopes to have a Cure; but all in vain, the tumour and pain daily increa<g ref="char:EOLhyphen"/>ſing, and becoming almoſt in<g ref="char:EOLhyphen"/>ſufferable: at length his Parents deſired me to viſit him, which I did; they asked my opinion concerning his Cure. When I had
+<pb n="48" facs="tcp:37355:32"/>conſidered the violence of his pain, the tumour of the lower part of his Leg and Foot, his loſt appetite, want of reſt, and his being emaciated, I informed them that I did believe, that his Cure was impoſſible, and that there was but one way left to ſave his life, which was, to take off his Leg without much further delay; for that it had been kept on too long already, which news was unwelcome to them, they tel<g ref="char:EOLhyphen"/>ling me, that ſuch eminent Surge<g ref="char:EOLhyphen"/>ons as they had applied them<g ref="char:EOLhyphen"/>ſelves to, and had had the ma<g ref="char:EOLhyphen"/>nagement of it all along, could not be ſo ignorant or deceitful, as thus to abuſe them, and leave them in the lurch, and they hoped I was much miſtaken in
+<pb n="49" facs="tcp:37355:32"/>my Prognoſticks. But I ſtill per<g ref="char:EOLhyphen"/>ſiſting, in what I had aſſerted, left them to their future conſideration, and further advice; whereupon they applied themſelves to the Surgeons of the Hoſpital, the reſult of whoſe advice was, that my opinion was to be agreed with; whereupon two days af<g ref="char:EOLhyphen"/>ter by their conſent and deſire, I amputated him below the Knee, Mr. <hi>Pierce</hi> and Mr. <hi>Johnſon</hi> being Wardens, then preſent. So ſoon as I had dreſt his ſtump, rouled him up, and placed him in Bed, I took the Leg, and made inciſion according to the length of the <hi>Tibia,</hi> laying it bare, where I ſhewed them a hole quite through both ſides of it, as if made by an Augre, and through which I could
+<pb n="50" facs="tcp:37355:33"/>put my little Finger; ſo power<g ref="char:EOLhyphen"/>fully penetrating and corroſive are acid humours, that they can with their pungent Particles thus terebrate the Bony parts. There being a very great Atrophy of the Thigh and Knee (which yet re<g ref="char:EOLhyphen"/>mains, though nine years ſince ta<g ref="char:EOLhyphen"/>ken off) the adjacent parts having received an ill taint from the ſub<g ref="char:EOLhyphen"/>jacent putrid humours, it was a long time, before I could raiſe fleſh enough to cover the ends of the Bones; but what is moſt remarkable, ſuch was the indu<g ref="char:EOLhyphen"/>ſtry of Nature, who is never idle, but always endeavouring to pro<g ref="char:EOLhyphen"/>gender, though impeded by imper<g ref="char:EOLhyphen"/>fect and defective principles, that ſome time after there grew out of the end of the ſtump from the
+<pb n="51" facs="tcp:37355:33"/>remaining part of the <hi>Tibia</hi> (as it were) another little <hi>Tibia,</hi> near an Inch in length, and about the bigneſs of a Tobacco-pipe, hol<g ref="char:EOLhyphen"/>low, and covered round about with a Cartilaginous ſubſtance, which I cut off with a pair of cut<g ref="char:EOLhyphen"/>ting Nippers cloſe to the ſtump end, and which ſeveral times ſince hath flown out the breadth of a Twopence, for as I ſaid above, the Leg was kept on too long. The Excoriation was eaſily Ci<g ref="char:EOLhyphen"/>catrized with <hi>aq. calcis.</hi> This caution therefore may be of uſe to Surgeons, that although it is not good to be over-haſty to diſ<g ref="char:EOLhyphen"/>member, without ſound and ur<g ref="char:EOLhyphen"/>gent reaſons; yet on the other hand, it is as dangerous to be di<g ref="char:EOLhyphen"/>latory, in keeping on a defective
+<pb n="52" facs="tcp:37355:34"/>Member, until it hath made a vi<g ref="char:EOLhyphen"/>cious communication to the o<g ref="char:EOLhyphen"/>ther parts, to the depraving their Natural tone and temper.</p>
+               <q>
+                  <l>
+                     <hi>For the advice is good,</hi>
+                  </l>
+                  <l>—immedicabile vulnus</l>
+                  <l>Enſe recidendum, ne pars ſincera tra<g ref="char:EOLhyphen"/>hatur.</l>
+               </q>
+               <p>So I ſhall conclude this, begin<g ref="char:EOLhyphen"/>ning with another not much un<g ref="char:EOLhyphen"/>like.</p>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="53" facs="tcp:37355:34"/>
+               <head>
+                  <hi>CHAP. XVI.</hi> A Thigh Amputated.</head>
+               <p>A Lawyers Son in <hi>Fetter-lane,</hi> about the age of the pre<g ref="char:EOLhyphen"/>ceding, and much about the ſame time, having eleven Fiſtu<g ref="char:EOLhyphen"/>laes in his Leg, and Thigh; for about a Twelve-month, had been under the hands of ſe<g ref="char:EOLhyphen"/>veral Surgeons; who at length deſpairing of his cure, left him off. The Boy calling to mind, that ſome four years before, I had cured him of two Ulcers in his Leg (for this accident was ſince, and hapned by a Contuſion from a Cart-wheel, hurting his Thigh and Leg, from whence after<g ref="char:EOLhyphen"/>wards
+<pb n="54" facs="tcp:37355:35"/>Apoſtemations, and Fiſtu<g ref="char:EOLhyphen"/>laes were produced) deſired his Father to ſend to me, telling him withall, he was confident I could cure him. At his requeſt to go along with him to ſee his Son, I accordingly went; but found him ſo diſcarned, that he was almoſt a Skeleton, having for twelve weeks been detained by a <hi>Diarrhaea.</hi> From his Ulcers, and Fiſtulaes flowed a ſilthy mat<g ref="char:EOLhyphen"/>ter, ſtinking beyond all compari<g ref="char:EOLhyphen"/>ſon, his Heel ſtuck to his But<g ref="char:EOLhyphen"/>tock, and his Knee disjoynted; for the head of the <hi>Tibia</hi> met not with the <hi>Os Femoris</hi> (which over<g ref="char:EOLhyphen"/>hung it) by above an Inch, the Ligaments being all eaten aſun<g ref="char:EOLhyphen"/>der, by the matter there contain<g ref="char:EOLhyphen"/>ed. I told his Father, I had con<g ref="char:EOLhyphen"/>ſidered,
+<pb n="55" facs="tcp:37355:35"/>the circumſtances he lay under, were ſo ſevere, that I thought, there was no likelyhood of his recovery, nor poſſibility of Cure; to which the Boy very heartily replied, he knew he ſhould be well, if I would cut off his Thigh; and that if I would lend him a Knife, he would cut it off himſelf; whereat his Father weeping, he bid him not be troubled, telling him, that if he died, there would be an end of his charges, but if he out-liv'd it, he would make him amends. I propoſed to his Father, to bring the Wardens with me next day, to take a view of him; who when they came, and ſaw the mi<g ref="char:EOLhyphen"/>ſerable condition he was in, knew not what to think of it: But ta<g ref="char:EOLhyphen"/>king
+<pb n="56" facs="tcp:37355:36"/>notice of the Boys undaunt<g ref="char:EOLhyphen"/>ed confidence in me, by their perſwaſions, I was encouraged to diſmember him, leaving the ſucceſs to God, thinking it better rather to try a doubtful remedy, than to leave him (as others had done before) to periſh without any. It being concluded, on the next day after his Mother ſhould be brought to bed (for ſhe was almoſt ready to lye down, and feared to have it done, till that was over) it ſhould be attempted; ſo on the Morning after ſhe was delivered, I came, and Amputated him near the upper part of his Thigh, above his uppermoſt Fi<g ref="char:EOLhyphen"/>ſtula; he not ſo much at the uſe of Knife or Saw, as once crying, or making any complaint, until
+<pb n="57" facs="tcp:37355:36"/>the application of hot Cauteries, which I was forced to make uſe of, by reaſon of the largeneſs of the Veſſels, from whence other<g ref="char:EOLhyphen"/>wiſe I might have expected in a few minutes his whole Maſs of Blood, and Life to have been ex<g ref="char:EOLhyphen"/>hauſted. It was on a Munday morning I took it off; and on the Thurſday following, when I came to dreſs him, I found him very lively, his ſtump very fair, being indifferently well digeſted, and in ſix Weeks time perfectly healed; afterward he grew ve<g ref="char:EOLhyphen"/>ry plump and carnous, and ſo remaineth. Next I will ſet down another caſe of an Arm ill handled, and too long kept on, which is as followeth.</p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="58" facs="tcp:37355:37"/>
+               <head>
+                  <hi>CHAP. XVII.</hi> An Arm Amputated.</head>
+               <p>AN Hoſtler belonging to an Inn in <hi>Holbourn,</hi> received a blow on his Elbow from a Horſes head, which for ſeveral Months gave him ſome pain, tho' not ſo much, but that he could follow his occaſions; at length the tumour and pain increaſing, he applied himſelf to a Surgeon of his acquaintance, one <hi>G.R.</hi> who kept him ſo long in hand, that for want of timely laying it open, the matter diſcharged its ſelf, through ſeveral perforations it had made; into which per<g ref="char:EOLhyphen"/>forations
+<pb n="59" facs="tcp:37355:37"/>he daily injected ſuch large quantities of Vitriolate, and ſometimes Mercurial Waters, that fouled both the Ancon or Ole<g ref="char:EOLhyphen"/>cranon, and lower head of the Adjutory, there being a large tu<g ref="char:EOLhyphen"/>mour of the lower part of the Arm, the upper part being quite extenuated. Having ſent for me (for he had diſcharged his other Surgeon) and taking notice of the extream tumour, fetid ſmell, and colour of the Arm (for it was Livid) I told him I did be<g ref="char:EOLhyphen"/>lieve the Bones were ſo foul, and the Arm ſo putrid, that he muſt of neceſſity loſe his Arm, to ſave his life; and that if he would per<g ref="char:EOLhyphen"/>mit me, to make Inciſion, which ſhould not hurt him, he ſhould find my words to be true; ſo
+<pb n="60" facs="tcp:37355:38"/>with my head Razour, I laid it open about four Inches in length (the parts being inſenſible) and with my Finger pull'd out a great piece of the Adjutory, being looſe and carious, like a rotten Cork. When he perceived the danger he was in, he told me he was very willing to ſubmit to the loſs of his Arm, rather than of his Life. I applied a Stupe wrung out of hot Brandy round about the Arm, and ſo left him till the next day. In the mean while I informed the Wardens of his condition, and of the neceſ<g ref="char:EOLhyphen"/>ſity of taking off his Arm; on the next Morning they there met me, where having all things in readineſs, I Amputated him; and afterwards laying the Arm open,
+<pb n="61" facs="tcp:37355:38"/>I found the lower part of the Adjutory, for about three Inches in length foul quite through, ſo were alſo the upper parts of the <hi>Ulna,</hi> and <hi>Radius carious</hi> about the ſame length. About three days after his Surgeon hearing, that he had been diſmembred, came to ſee him; I underſtanding that it was he, bid the Nurſe let him in, whilſt I ſtept behind the Bed (unſeen) ſo coming to the Pa<g ref="char:EOLhyphen"/>tient, he told him, he had done villainouſly by him, and that he deſired not to ſee him; T'other re<g ref="char:EOLhyphen"/>plied, he wondred any one ſhould be ſo baſe and fooliſh to take off his Arm, when he would take his Oath, he could have cured it, in a week or ten days at fartheſt. Whereupon I came from behind
+<pb n="62" facs="tcp:37355:39"/>the Bed, and told him he was as impudent as ignorant, to affirm ſuch impoſſibilities, and that I had the Wardens to juſtify me in what I had done; asking him withal, what Medicines he had made uſe of, to occaſion this miſ<g ref="char:EOLhyphen"/>chief? he reply'd, he knew what he did, as well as any Man in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and needed not be taught by any one; for he had uſed Injecti<g ref="char:EOLhyphen"/>ons with Vitriol and Plantane Water, and ſometimes ☿ Subli<g ref="char:EOLhyphen"/>mate and Plantane Water, as good as ever was uſed. I told him, thoſe good Medicines were the cauſe of the loſs of this poor Mans Arm, whereupon he went down Stairs railing at me, and very much diſpleaſed. He being ſo emaciated, it was ſomewhat long
+<pb n="63" facs="tcp:37355:39"/>e're I could procure fleſh enough, to cover the end of the ſtump. the keeping the Arm on ſo long had rendred him Hectick; for not long after the ſtump was Ci<g ref="char:EOLhyphen"/>catrized, he took leave of this World.</p>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="64" facs="tcp:37355:40"/>
+               <head>
+                  <hi>CHAP. XVIII.</hi> A Womans Throat cut.</head>
+               <p>A Young Woman who had been at a Meeting-houſe, where the <hi>Bonerges</hi> had ſhut Heaven Gates, and threatned Hell to all, who were not on his ſide of the way; in a great diſcontent went home, and fell into ſuch deſpair, that being me<g ref="char:EOLhyphen"/>lancholy by her ſelf in her Cham<g ref="char:EOLhyphen"/>ber, with a Knife cut her Throat; the Wound was near ſix Inches in length and uneven. When the thing was done, being ſent for, I was not in the way, but came about an hour or more after,
+<pb n="65" facs="tcp:37355:40"/>where I found another Surgeon had been before me; I was very unwilling to meddle with it, but the Party her ſelf making ſigns to me, that ſhe would have me look on it, her friends and neigh<g ref="char:EOLhyphen"/>bours perſwading me to it; I went about it, and perceived a large quantity of Tow ſprinkled with ſome Aſtringent Powder cramm'd into the Wound, which I took out. The Wound look'd very dreadful, having clean<g ref="char:EOLhyphen"/>ſed it, I ſaw the <hi>Larynx</hi> was notcht in two or three places; for as ſhe afterwards told me, ſhe had made two or three cuts at it: Having brought the Lips of the Wound together with five ſtitches, and dreſt it with an Ag<g ref="char:EOLhyphen"/>glutinative Balſam; ſhe ſpoke
+<pb n="66" facs="tcp:37355:41"/>not for three days, but on the fourth, askt me if I thought ſhe could live; I told her there was no fear of her death, if ſhe would be but governed, for ſhe was in a Feaver; wherefore I at firſt bled her, and kept her low, taking care ſhe had every other day a Glyſter; the Wound healed as well as one could wiſh, and in leſs than three Weeks ſhe reco<g ref="char:EOLhyphen"/>vered.</p>
+            </div>
+            <div n="19" type="chapter">
+               <pb n="67" facs="tcp:37355:41"/>
+               <head>
+                  <hi>CHAP. XIX.</hi> A Wound in the Belly.</head>
+               <p>A Shoomakers Wife, her Huſ<g ref="char:EOLhyphen"/>band not preſently grant<g ref="char:EOLhyphen"/>ing her unreaſonable demand, took one of his ſharpeſt Knives wherewith he uſed to work, and ſtabb'd her ſelf obliquely into the <hi>Epigaſtrium:</hi> the Wound was ſmall, (and ſo was the Knife, which I ſaw was Bloody about two Inch<g ref="char:EOLhyphen"/>es or more) and it bled but little; wherefore I took Blood from her to prevent inward bleeding which I feared; I dreſt the Wound with a ſhort Tent with a Digeſtive. There hapned after 2. days a large
+<pb n="68" facs="tcp:37355:42"/>tumour round about the wound<g ref="char:EOLhyphen"/>ed place, of which ſhe complain<g ref="char:EOLhyphen"/>ed very much, and proved to be only from wind; for upon the uſe of warm Fomentations, it was wholly diſcuſs'd, and ſhe in ſe<g ref="char:EOLhyphen"/>ven or eight days became well.</p>
+            </div>
+            <div n="20" type="chapter">
+               <pb n="69" facs="tcp:37355:42"/>
+               <head>
+                  <hi>CHAP. XX.</hi> A mortification of both Feet.</head>
+               <p>A Maſter of a Ship (bound for the <hi>West-Indies,</hi> where<g ref="char:EOLhyphen"/>of a young Man belonging to me was Surgeon) had a Servant, who by extremity of cold Wea<g ref="char:EOLhyphen"/>ther, got a Mortification of both his Feet; being deſired I went down to <hi>Limehouſe</hi> to ſee him, and feeling on his Feet, ſe<g ref="char:EOLhyphen"/>veral of his Toes came off in my hand. I made divers deep Inciſions on both Feet, till I came to the parts ſenſible; then with a broad Carpenters Chiſſel and Mallet, I cut off both Feet near the upper part of the <hi>Metatarſus;</hi>
+                  <pb n="70" facs="tcp:37355:43"/>the ends of the Bones I covered with dry Lint, &amp; to the Mouths of the Veſſels I applied <hi>Chalcanthum;</hi> over all <hi>Bole,</hi> Whites of Eggs and <hi>Oxycrate,</hi> and ſo rould him up; I came every other day to ſee him for three Weeks, in which time the Bones were covered with fleſh; ſo the Ship being bound to Sea, and he to go in her, I left him to the care of my Man, who gave me account by Letter, that before the Ship went out of the <hi>Downs,</hi> both his Feet were Cica<g ref="char:EOLhyphen"/>trized and well. I have often aboard made uſe of the Car<g ref="char:EOLhyphen"/>penters broad Chiſſel in Morti<g ref="char:EOLhyphen"/>fications of the Hands and Feet, occaſioned by Gun-ſhot Wounds, and therefore borrow room for it in the <hi>Armamentarium Chirurgicum.</hi>
+               </p>
+            </div>
+            <div n="21" type="chapter">
+               <pb n="71" facs="tcp:37355:43"/>
+               <head>
+                  <hi>CHAP. XXI.</hi> A Diſlocation of the Inner Ancle, with a Lacerated Wound.</head>
+               <p>ONe belonging to an Inn on <hi>Snow-Hill,</hi> Aged about threeſcore and ten, be<g ref="char:EOLhyphen"/>ing very corpulent and weighty, by a fall ſuffered a Diſlocation of the Foot, the inner and low<g ref="char:EOLhyphen"/>er head of the <hi>Tibia</hi> (the Liga<g ref="char:EOLhyphen"/>ments being by the violence of the fall broken aſunder) coming through at the Wound, which was above four Inches in length: I bled him largely, and kept him to an extraordinary ſpare Diet, to take off his too great Pleni<g ref="char:EOLhyphen"/>tude,
+<pb n="72" facs="tcp:37355:44"/>(having alſo an ill habit of Body) and much ado I had to keep off a Mortification, which twice or thrice had like to have hapened, but that he was reſcu<g ref="char:EOLhyphen"/>ed from it by Scarifications, a ſtrong <hi>Lixivium</hi> and Theriacal Ap<g ref="char:EOLhyphen"/>plications. The Medicine with which I dreſt the wounded part was, of <hi>Ol. Therebinth. Tinctura Traumat.</hi> and <hi>Syr. de Roſ. Sicc.</hi> and in two Months time I healed up the wound; but becauſe the diſ<g ref="char:EOLhyphen"/>location remained (which could not be remedy'd, the Ligaments which ſhould have kept the head of the Bone in its place, being torn aſunder) I made uſe of an Inſtrument of Steel, riveted to the Shoe below, and coming up the outſide of the Leg, with
+<pb n="73" facs="tcp:37355:44"/>a Leather Brace at the gartering place, and another below, to Lace on the out-ſide of the outer Ancle, by which means the head of the Bone was firmly kept in his place, and he went indifferently well, till ſome years after growing ſtill fat and unweldy, and wanting exerciſe, he fell into a Dropſie, whereof he died; this being the only cure I ever heard of this nature, I thought good here to inſert it.</p>
+            </div>
+            <div n="22" type="chapter">
+               <pb n="74" facs="tcp:37355:45"/>
+               <head>
+                  <hi>CHAP. XXII.</hi> A large Wound on the Head.</head>
+               <p>ONe going down a pair of ſtone ſteps, it being Win<g ref="char:EOLhyphen"/>ter time, and very ſlippery, had the ill fortune to fall down with his Head upon the edge of one of the ſteps, whereby he received a Wound from a little above the Eye-brow, fetching a circumfe<g ref="char:EOLhyphen"/>rence round the ſide of the Head, to the hindmoſt part thereof, in<g ref="char:EOLhyphen"/>ſomuch that the Scalp hung down upon the Neck, the Wound in length being eight Inches. Having taken off the Hair, and cleanſed the Wound, I joyned the Lips by
+<pb n="75" facs="tcp:37355:45"/>ſix Equi-diſtant ſtitches, and left both ends of the Wound open with two ſhort Tents, the bet<g ref="char:EOLhyphen"/>ter to make diſcharge of the great quantity of <hi>Sanies,</hi> and matter which continually ſlid down. The application after the two firſt days being Pledgets dipt in <hi>Balſam Lu<g ref="char:EOLhyphen"/>catell.</hi> with <hi>Tinctur. Traumat.</hi> ma<g ref="char:EOLhyphen"/>king uſe always of a warm Fo<g ref="char:EOLhyphen"/>mentation before dreſſing, by which means in five Weeks time he was made well.</p>
+            </div>
+            <div n="23" type="chapter">
+               <pb n="76" facs="tcp:37355:46"/>
+               <head>
+                  <hi>CHAP. XXIII.</hi> Two Wounds of the Head.</head>
+               <p>ANother being a little Boy, lately received ſuch a Wound by a Cart-wheel going over the ſide of his Head, tearing away the Scalp, and leaving the <hi>Cranium</hi> bare in ſome places; the Wound was about ſix Inches long, there being another Wound likewiſe on the other ſide of the Head about three Inches in length; the Head was very much tumefied, &amp; from the greater Wound came ſuch an exceſſive quantity of <hi>Sanies,</hi> that I was compell'd to dreſs it twice a
+<pb n="77" facs="tcp:37355:46"/>day. This Wound was handled much after the ſame manner, as that above mentioned, and in near the ſame ſpace of time was perfectly cured.</p>
+            </div>
+            <div n="24" type="chapter">
+               <pb n="78" facs="tcp:37355:47"/>
+               <head>
+                  <hi>CHAP. XXIV.</hi> A Compound Fracture of the Leg.</head>
+               <p>ONe by a fall from a Scaffold, being about eighteen Foot high, received a Compound Fra<g ref="char:EOLhyphen"/>cture of the Leg with 2 Wounds, at the Wound above, came forth a part of the <hi>Tibia,</hi> at the lower Wound on the out-ſide a part of the Fibula. I bled him, kept him low, and wrapt the whole Leg in a Sear-cloth, cutting out two pieces, one above, and the other below: for convenience in dreſſing, I alſo contrived a Caſe of Tin to contain the Leg, in which were two little doors
+<pb n="79" facs="tcp:37355:47"/>to open and ſhut, for the oppor<g ref="char:EOLhyphen"/>tunity of making applications to the wounded parts. The Medicine to the ends of the Bones was of <hi>Tinctur. Traumatica, Mel Roſar.</hi> and <hi>Pulv. Irid. Florentiae;</hi> for they had received prejudice from the dirt he fell into. Wherefore it was ſome<g ref="char:EOLhyphen"/>what long before they caſt off; however within the ſpace of three Months he became well.</p>
+            </div>
+            <div n="25" type="chapter">
+               <pb n="80" facs="tcp:37355:48"/>
+               <head>
+                  <hi>CHAP. XXV.</hi> Divers Wounds by ſmall Shot Cured.</head>
+               <p>BEing in a Merchant-man, we were attact by two <hi>Turks</hi>-Men of War of good force, and by them at length taken; they did ſo gaul us with their ſmall Shot, that a Man could ſcarce appear upon the Deck, where ſeveral of our Com<g ref="char:EOLhyphen"/>pany received very untoward Wounds, <hi>viz.</hi> one of our Men hal<g ref="char:EOLhyphen"/>ling at a Tackle to run out a Gun, was ſhot with a Muſquet Bullet through both Arms, near the middle and hinder parts of the <hi>Brachia,</hi> about the beginning of
+<pb n="81" facs="tcp:37355:48"/>the <hi>Brachiaeus externus;</hi> I at firſt drew Flammulaes of Tow through, armed with a digeſtive, and af<g ref="char:EOLhyphen"/>terward I uſed a ſhort Tent to each of the four Orifices, ſuffe<g ref="char:EOLhyphen"/>ring the Wounds to Incarne in the middle: The fleſh being pretty well fill'd up, I at length took out my Tents, uſing only Pled<g ref="char:EOLhyphen"/>gets ſpread with the ſame Medi<g ref="char:EOLhyphen"/>cine; and laſtly with dry Lint Ci<g ref="char:EOLhyphen"/>catrized them.</p>
+            </div>
+            <div n="26" type="chapter">
+               <pb n="82" facs="tcp:37355:49"/>
+               <head>
+                  <hi>CHAP. XXVI.</hi> A Wound by a Muſquet Ball.</head>
+               <p>A Sea-man received a Wound by a Muſquet-ball, entring in about the upper Angle of the <hi>Sca<g ref="char:EOLhyphen"/>pula,</hi> which paſſing through the <hi>Trapezius,</hi> and under the <hi>Levator humeri</hi> lodged upon the <hi>Cartila<g ref="char:EOLhyphen"/>go Thyroeides.</hi> Running to me almoſt ſtrangled, and not able to ſpeak, he made ſign of being choakt with his Finger, where<g ref="char:EOLhyphen"/>upon feeling the Bullet, I made inciſion, and taking it out gave it him, ſcarce willing to ſtay to be dreſt, only I clapt into the Wound above the <hi>Scapula,</hi> a ſhort
+<pb n="83" facs="tcp:37355:49"/>thick Tent of dry Tow; he went to his quarters again, and behaved himſelf with a great deal of courage, till the fight was over; the wound made by Inci<g ref="char:EOLhyphen"/>ſion proved but little trouble<g ref="char:EOLhyphen"/>ſome, for that eaſily healed; and that on the Shoulder after it came to be well digeſted (the quanti<g ref="char:EOLhyphen"/>ty of matter daily decreaſing) ſhort Tents being ſtill applied, in about three Weeks was perfect<g ref="char:EOLhyphen"/>ly Cured.</p>
+            </div>
+            <div n="27" type="chapter">
+               <pb n="84" facs="tcp:37355:50"/>
+               <head>
+                  <hi>CHAP. XXVII.</hi> A Wound in the Thigh by ſmall Shot.</head>
+               <p>ANother of our Men at the ſame time received a ſmall ſhot in the Thigh, between the <hi>Rectus</hi> and the <hi>Vaſtus Externus;</hi> I could by no means (although I made diligent enquiry) trace or find out the Bul<g ref="char:EOLhyphen"/>let, wherefore leaving it behind me, in eighteen days time I cured the wound, and never heard he had the leaſt trouble or inconve<g ref="char:EOLhyphen"/>nience from it afterward.</p>
+            </div>
+            <div n="28" type="chapter">
+               <pb n="85" facs="tcp:37355:50"/>
+               <head>
+                  <hi>CHAP. XXVIII.</hi> Several Wounds by ſmall ſhot.</head>
+               <p>ANother time a great many of our Men were wounded by an Ambuſcado of the <hi>Turks</hi> aſhore, who unawares ſurprized them. One received a Wound on the ſide of the <hi>Thorax,</hi> the Bullet coming out near the <hi>Spine;</hi> I could not find it had penetrated the cavity of the Breaſt, either before or behind; wherefore bending my Probe, I found the ſhot had glanced upon the Rib, and had gone round it. I kept both wounds open by two ſhort Tents dipt in Digeſtive, and with good Bandage (being a great cauſe of Unition) in a ſhort time healed him.</p>
+            </div>
+            <div n="29" type="chapter">
+               <pb n="86" facs="tcp:37355:51"/>
+               <head>
+                  <hi>CHAP. XXIX.</hi> A Wound by a Muſquet ſhot.</head>
+               <p>A Second was wounded in the Face with two ſlugs; one came in at his lower Jaw, beating in three of his Teeth, and a piece of the Mandible: the other having fractured the <hi>Os Jugale,</hi> came through the Orbit of the Eye, not wounding it, but with the violence of the contuſion leaving behind an incurable <hi>Amauroſis,</hi> or <hi>Gutta Se<g ref="char:EOLhyphen"/>rena.</hi>
+               </p>
+            </div>
+            <div n="30" type="chapter">
+               <pb n="87" facs="tcp:37355:51"/>
+               <head>
+                  <hi>CHAP. XXX.</hi> A fracture of the Leg by a Muſquet-ball.</head>
+               <p>A Mariner at the ſame time was ſhot through the Leg with ſeveral ſhot, fracturing both Foci<g ref="char:EOLhyphen"/>les with great laceration of the Muſcles &amp; Tendons; divers pieces of Bones alſo being driven through ſome that were looſe, I took out; the tumour of the Leg increaſing, he fell into a Mortification, which proved of difficult cure; however at length by Inciſions, the uſe of hot Lixivial Stupes, &amp; Medicines for<g ref="char:EOLhyphen"/>merly expreſt, he got off from it; but it was long e're he recovered, the Unition of ſome, and exfoliati<g ref="char:EOLhyphen"/>on of other Bones, alſo the Confir<g ref="char:EOLhyphen"/>mation of the parts debilitated, re<g ref="char:EOLhyphen"/>quiring much time.</p>
+            </div>
+            <div n="31" type="chapter">
+               <pb n="88" facs="tcp:37355:52"/>
+               <head>
+                  <hi>CHAP. XXXI.</hi> Remarks on ſome Errors in Surgery.</head>
+               <p>BEing in the Hoſpital Ship in the year 65. after that great Engagement with the <hi>Dutch</hi> on the third of <hi>June</hi> (where his Royal Highneſs was ſo ſignally Victori<g ref="char:EOLhyphen"/>ous) from each Man of War were put aboard us their wounded Men; where I obſerved very great errors committed by ſome Surgeons, whoſe fame was greater than their merit; many of the wounded per<g ref="char:EOLhyphen"/>ſons being brought in ſo ill a dreſs, that it is almoſt a ſhame to men<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> from aboard where <hi>J. F.</hi> was a Surgeon, among others one
+<pb n="89" facs="tcp:37355:52"/>having a Compound Fracture of the Arm by a great ſhot, and ſhatter'd all in pieces from the Elbow to the Wriſt, there was only a ſheet of brown Paper (with<g ref="char:EOLhyphen"/>out any other application) wrapt round it, which I ſhewed the Sur<g ref="char:EOLhyphen"/>geon General, who lookt upon it with admiration: This Perſon was a Scotchman, and ſo timerous that I could by no means perſwade him to the taking off his Arm, nor yet to be dreſt; at length it ſend<g ref="char:EOLhyphen"/>ing forth ſuch a cadaverous ſmell, as was noiſome to himſelf as well as his Neighbours (we having at that time above five hundred wounded Men aboard, near two hundred of them with amputati<g ref="char:EOLhyphen"/>ons, the reſt with Compound Fra<g ref="char:EOLhyphen"/>ctures, and other Wounds by Gun<g ref="char:EOLhyphen"/>ſhot)
+<pb n="90" facs="tcp:37355:53"/>I at length overcame him by perſwaſive arguments to ſave his Life, which by no other means could be effected, but by taking off his Arm, to which he con<g ref="char:EOLhyphen"/>ſented; accordingly I did it, and he recovered.</p>
+            </div>
+            <div n="32" type="chapter">
+               <pb n="91" facs="tcp:37355:53"/>
+               <head>
+                  <hi>CHAP. XXXII.</hi> A Leg Amputated.</head>
+               <p>ANother from aboard a Third Rate Frigate (where <hi>T. M.</hi> was Surgeon) upon the Recoil of a Gun the Truck ran over his Foot, breaking in pieces all the Bones of the <hi>Metatarſus;</hi> percei<g ref="char:EOLhyphen"/>ving his Foot very much tumefied and diſcoloured above the Anckle, I made deep Inciſions on the <hi>Tar<g ref="char:EOLhyphen"/>ſus,</hi> and <hi>Metatarſus,</hi> which he felt not; I told him there was a ne<g ref="char:EOLhyphen"/>ceſſity to take off his Leg, to which he readily agreed; ſo he hopp'd on one Leg to a Cheſt,
+<pb n="92" facs="tcp:37355:54"/>where ſitting I took it off, (he not expreſſing the leaſt ſign of pain or ſorrow,) and afterwards when well, was by his Maje<g ref="char:EOLhyphen"/>ſties favour made Cook of a Se<g ref="char:EOLhyphen"/>cond Rate Ship.</p>
+            </div>
+            <div n="33" type="chapter">
+               <pb n="93" facs="tcp:37355:54"/>
+               <head>
+                  <hi>CHAP. XXXIII.</hi> Remarks on ſome Errors in Surgery.</head>
+               <p>AFore maſt-man on a Second Rate, (where <hi>O. R.</hi> was Surgeon, and a <hi>Male</hi> Practicer) had by a great Shot his Leg daſht in pieces; the Surgeon aforeſaid made no other Amputation, than by cutting off the Leg with his Knife, and dividing it from the parts it hung by. I wondred much at the ſtrange ſight, when I came to Unrowl him; for there I found the ſhatter'd parts of the <hi>Tibia</hi> ly<g ref="char:EOLhyphen"/>ing looſe, and ſplit up to the Jun<g ref="char:EOLhyphen"/>cture, the <hi>Gaſterocnemii</hi> turned back
+<pb n="94" facs="tcp:37355:55"/>like the flap of a Shoulder of Mut<g ref="char:EOLhyphen"/>ton, and with a Rowler bound back above the Hamm; ſo that I was forced to make a new Am<g ref="char:EOLhyphen"/>putation above the Knee.</p>
+            </div>
+            <div n="34" type="chapter">
+               <pb n="95" facs="tcp:37355:55"/>
+               <head>CHAP. XXXIV.</head>
+               <p>I Could inſert a great deal more Surgery of this kind (for I had too much occaſion for ſuch ob<g ref="char:EOLhyphen"/>ſervation) but I will forbear. However before I take leave of this, let me give you a taſt of that Famed Surgeon <hi>Y. F.</hi> from whom after ſeveral Fights I re<g ref="char:EOLhyphen"/>ceived aboard divers Amputated Perſons, who needed no other Certificate for their Paſs-port in<g ref="char:EOLhyphen"/>to the other World, than his: His cuſtome being after Amputation to apply to the Stumps <hi>Mercur. Sublim.</hi> by which means was al<g ref="char:EOLhyphen"/>ways procured a Mortification, Malignant Feaver and death;
+<pb n="96" facs="tcp:37355:56"/>which might have been avoided, had he made the happy exchange for Calcined Vitriol; but I will leave him among his dead Pati<g ref="char:EOLhyphen"/>ents. And here I proteſt, I have not made theſe remarks upon any one out of ill will, but out of meer love to Surgeons, that notice being given them by the Sandy and Rocky errors of others, they may the better, and with more ſafety ſteer their courſe, 'till they arrive to the Haven of fair and re<g ref="char:EOLhyphen"/>putable Practice, it being the ſa<g ref="char:EOLhyphen"/>feſt Harbour for their Patients, and moſt reputable to them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:37355:56"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
